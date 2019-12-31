@@ -1,5 +1,5 @@
 function [X, Y, iter] = MSNMF(M, D, R, lambda1, lambda2, lambda3, k, tol1, tol2, maxiter)
-%% MSNMF: Drug repositioning based on multi-similarity non-negative matrix factorization.
+% MSNMF: Drug repositioning based on multi-similarity non-negative matrix factorization.
 % Usage: [X, Y, iter] = MSNMF(M, D, R, lambda1, lambda2, lambda3, k, tol1, tol2, maxiter)
 %
 % Inputs:
@@ -10,7 +10,6 @@ function [X, Y, iter] = MSNMF(M, D, R, lambda1, lambda2, lambda3, k, tol1, tol2,
 %        k                  - the latent dimension of matrix factorization.
 %        tol1, tol2         - tolerance of termination conditions.
 %        maxiter            - maximum number of iterations.
-
 %
 % Outputs:
 %        X, Y               - two latent low-rank matrices of the completed matrix.
