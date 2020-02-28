@@ -1,4 +1,5 @@
-Based on multiple similarities of drug and disease, we propose a Multi-Similarities Nonnegative Matrix Factorization algorithm to identify potential novel indications for known or novel drugs.
+# MSNMF
+Based on multiple similarities of drug and disease, we propose a Multi-Similarities Non-negative Matrix Factorization algorithm to identify potential novel indications for known or novel drugs.
 The code of MSNMF in this package is implemented in Matlab2014a.
 
 Description: 
