@@ -11,5 +11,16 @@ The code of MSBMF in this package is implemented in Matlab2014a.
 If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyun_yang@126.com
 
 # Citation
-Yang M, Wu G, Zhao Q, Li Y, Wang J. Computational drug repositioning based on multi-similarities bilinear matrix factorization[J]. Briefings in Bioinformatics, 2021,22(4).
-
+Yang M, Wu G, Zhao Q, et al. Computational drug repositioning based on multi-similarities bilinear matrix factorization[J]. Briefings in Bioinformatics, 2021, 22(4): bbaa267.
+```
+@article{yang2021computational,
+  title={Computational drug repositioning based on multi-similarities bilinear matrix factorization},
+  author={Yang, Mengyun and Wu, Gaoyan and Zhao, Qichang and Li, Yaohang and Wang, Jianxin},
+  journal={Briefings in Bioinformatics},
+  volume={22},
+  number={4},
+  pages={bbaa267},
+  year={2021},
+  publisher={Oxford University Press}
+}
+```
